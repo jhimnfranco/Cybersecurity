@@ -23,6 +23,7 @@ My journey into cybersecurity is driven by a deep-seated passion for providing t
 In my quest to deepen my knowledge and expertise in cybersecurity, I am currently working towards obtaining the following certifications:
 - **Splunk Certified Cybersecurity Defense Analyst**: Focusing on enhancing my skills in using Splunk for security analytics and incident response.
 - **CompTIA Cybersecurity Analyst (CySA+)**: Aiming to solidify my cybersecurity analyst skills and understanding of behavioral analytics to improve network security.
+  
 These certifications are part of my commitment to staying at the forefront of cybersecurity practices and contributing to the security community with up-to-date knowledge and skills.
 
 ## 🌟 Goals
